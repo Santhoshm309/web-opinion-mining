@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: cc.mallet.fst.tests.TestMEMM
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.145 sec <<< FAILURE! - in cc.mallet.fst.tests.TestMEMM
+testSpaceMaximizable(cc.mallet.fst.tests.TestMEMM)  Time elapsed: 0.08 sec  <<< ERROR!
+cc.mallet.optimize.InvalidOptimizableException: sy = 83.87438991729655 > 0
+	at cc.mallet.optimize.LimitedMemoryBFGS.optimize(LimitedMemoryBFGS.java:201)
+	at cc.mallet.fst.MEMMTrainer.train(MEMMTrainer.java:124)
+	at cc.mallet.fst.tests.TestMEMM.testSpaceMaximizable(TestMEMM.java:127)
+
+testSpaceSerializable(cc.mallet.fst.tests.TestMEMM)  Time elapsed: 0.061 sec  <<< ERROR!
+cc.mallet.optimize.InvalidOptimizableException: sy = 83.87438991729655 > 0
+	at cc.mallet.optimize.LimitedMemoryBFGS.optimize(LimitedMemoryBFGS.java:201)
+	at cc.mallet.fst.MEMMTrainer.train(MEMMTrainer.java:124)
+	at cc.mallet.fst.tests.TestMEMM.testSpaceSerializable(TestMEMM.java:150)
+

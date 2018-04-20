@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: cc.mallet.pipe.tests.TestPipeUtils
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.216 sec <<< FAILURE! - in cc.mallet.pipe.tests.TestPipeUtils
+testPipesAreStupid(cc.mallet.pipe.tests.TestPipeUtils)  Time elapsed: 0 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: Test failed: Should have generated exception.
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at cc.mallet.pipe.tests.TestPipeUtils.testPipesAreStupid(TestPipeUtils.java:52)
+
+testConcatenateBadPipes(cc.mallet.pipe.tests.TestPipeUtils)  Time elapsed: 0 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: null
+	at junit.framework.Assert.fail(Assert.java:48)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at cc.mallet.pipe.tests.TestPipeUtils.testConcatenateBadPipes(TestPipeUtils.java:93)
+

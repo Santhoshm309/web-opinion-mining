@@ -1,0 +1,30 @@
+-------------------------------------------------------------------------------
+Test set: cc.mallet.extract.test.TestDocumentExtraction
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 0.011 sec <<< FAILURE! - in cc.mallet.extract.test.TestDocumentExtraction
+testToXml(cc.mallet.extract.test.TestDocumentExtraction)  Time elapsed: 0.005 sec  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<...IMAL>quick brown fox[ </ANIMAL><VERB>leapt </VERB>]over the <ANIMAL>laz...> but was:<...IMAL>quick brown fox[</ANIMAL> <VERB>leapt</VERB> ]over the <ANIMAL>laz...>
+	at junit.framework.Assert.assertEquals(Assert.java:85)
+	at junit.framework.Assert.assertEquals(Assert.java:91)
+	at cc.mallet.extract.test.TestDocumentExtraction.testToXml(TestDocumentExtraction.java:53)
+
+testToXmlBIO(cc.mallet.extract.test.TestDocumentExtraction)  Time elapsed: 0.004 sec  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<... <ANIMAL>quick brown[ </ANIMAL><ANIMAL>fox </ANIMAL><VERB>leapt over </VERB>]the <ANIMAL>lazy dog...> but was:<... <ANIMAL>quick brown[</ANIMAL> <ANIMAL>fox</ANIMAL> <VERB>leapt over</VERB> ]the <ANIMAL>lazy dog...>
+	at junit.framework.Assert.assertEquals(Assert.java:85)
+	at junit.framework.Assert.assertEquals(Assert.java:91)
+	at cc.mallet.extract.test.TestDocumentExtraction.testToXmlBIO(TestDocumentExtraction.java:72)
+
+testNestedToXML(cc.mallet.extract.test.TestDocumentExtraction)  Time elapsed: 0 sec  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<...ck brown <MAMMAL>fox[ </MAMMAL></ANIMAL><VERB>leapt </VERB>over <ANIMAL>the <ADJ>lazy </ADJ>]dog</ANIMAL></doc>
+> but was:<...ck brown <MAMMAL>fox[</MAMMAL></ANIMAL> <VERB>leapt</VERB> over <ANIMAL>the <ADJ>lazy</ADJ> ]dog</ANIMAL></doc>
+>
+	at junit.framework.Assert.assertEquals(Assert.java:85)
+	at junit.framework.Assert.assertEquals(Assert.java:91)
+	at cc.mallet.extract.test.TestDocumentExtraction.testNestedToXML(TestDocumentExtraction.java:100)
+
+testNestedXMLTokenizationFilter(cc.mallet.extract.test.TestDocumentExtraction)  Time elapsed: 0 sec  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<...ck brown <MAMMAL>fox[ </MAMMAL></ANIMAL><VERB>leapt </VERB>]over <ANIMAL>the <AD...> but was:<...ck brown <MAMMAL>fox[</MAMMAL></ANIMAL> <VERB>leapt</VERB> ]over <ANIMAL>the <AD...>
+	at junit.framework.Assert.assertEquals(Assert.java:85)
+	at junit.framework.Assert.assertEquals(Assert.java:91)
+	at cc.mallet.extract.test.TestDocumentExtraction.testNestedXMLTokenizationFilter(TestDocumentExtraction.java:123)
+

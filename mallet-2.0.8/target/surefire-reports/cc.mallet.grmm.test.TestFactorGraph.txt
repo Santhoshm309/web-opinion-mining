@@ -1,0 +1,38 @@
+-------------------------------------------------------------------------------
+Test set: cc.mallet.grmm.test.TestFactorGraph
+-------------------------------------------------------------------------------
+Tests run: 21, Failures: 1, Errors: 3, Skipped: 0, Time elapsed: 1.04 sec <<< FAILURE! - in cc.mallet.grmm.test.TestFactorGraph
+testContinousSample(cc.mallet.grmm.test.TestFactorGraph)  Time elapsed: 0.005 sec  <<< ERROR!
+java.lang.RuntimeException: Error reading line:
+x1 x2 ~ BinaryPair sigma
+	at cc.mallet.grmm.util.ModelReader.findCtor(ModelReader.java:191)
+	at cc.mallet.grmm.util.ModelReader.constructFactor(ModelReader.java:154)
+	at cc.mallet.grmm.util.ModelReader.factorFromLine(ModelReader.java:137)
+	at cc.mallet.grmm.util.ModelReader.readModel(ModelReader.java:85)
+	at cc.mallet.grmm.test.TestFactorGraph.testContinousSample(TestFactorGraph.java:273)
+
+testContinousSample2(cc.mallet.grmm.test.TestFactorGraph)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.RuntimeException: Error reading line:
+x1 x2 ~ BinaryPair sigma
+	at cc.mallet.grmm.util.ModelReader.findCtor(ModelReader.java:191)
+	at cc.mallet.grmm.util.ModelReader.constructFactor(ModelReader.java:154)
+	at cc.mallet.grmm.util.ModelReader.factorFromLine(ModelReader.java:137)
+	at cc.mallet.grmm.util.ModelReader.readModel(ModelReader.java:85)
+	at cc.mallet.grmm.test.TestFactorGraph.testContinousSample2(TestFactorGraph.java:301)
+
+testAllFactorsOf(cc.mallet.grmm.test.TestFactorGraph)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.RuntimeException: Error reading line:
+x1 x2 ~ BinaryPair sigma
+	at cc.mallet.grmm.util.ModelReader.findCtor(ModelReader.java:191)
+	at cc.mallet.grmm.util.ModelReader.constructFactor(ModelReader.java:154)
+	at cc.mallet.grmm.util.ModelReader.factorFromLine(ModelReader.java:137)
+	at cc.mallet.grmm.util.ModelReader.readModel(ModelReader.java:85)
+	at cc.mallet.grmm.test.TestFactorGraph.testAllFactorsOf(TestFactorGraph.java:325)
+
+testCacheExpanding(cc.mallet.grmm.test.TestFactorGraph)  Time elapsed: 1.023 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: null
+	at junit.framework.Assert.fail(Assert.java:48)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at cc.mallet.grmm.test.TestFactorGraph.testCacheExpanding(TestFactorGraph.java:418)
+

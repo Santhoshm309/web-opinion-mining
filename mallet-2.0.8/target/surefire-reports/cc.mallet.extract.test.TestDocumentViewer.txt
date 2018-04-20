@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: cc.mallet.extract.test.TestDocumentViewer
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.016 sec <<< FAILURE! - in cc.mallet.extract.test.TestDocumentViewer
+testSpaceViewer(cc.mallet.extract.test.TestDocumentViewer)  Time elapsed: 0.016 sec  <<< ERROR!
+java.lang.ClassCastException: cc.mallet.extract.StringTokenization (in module: Unnamed Module) cannot be cast to java.lang.CharSequence (in module: java.base)
+	at cc.mallet.pipe.CharSequence2TokenSequence.pipe(CharSequence2TokenSequence.java:63)
+	at cc.mallet.pipe.Pipe$SimplePipeInstanceIterator.next(Pipe.java:295)
+	at cc.mallet.pipe.Pipe$SimplePipeInstanceIterator.next(Pipe.java:283)
+	at cc.mallet.pipe.Pipe$SimplePipeInstanceIterator.next(Pipe.java:291)
+	at cc.mallet.pipe.Pipe$SimplePipeInstanceIterator.next(Pipe.java:283)
+	at cc.mallet.types.InstanceList.addThruPipe(InstanceList.java:267)
+	at cc.mallet.extract.CRFExtractor.extract(CRFExtractor.java:151)
+	at cc.mallet.extract.test.TestDocumentViewer.testSpaceViewer(TestDocumentViewer.java:63)
+

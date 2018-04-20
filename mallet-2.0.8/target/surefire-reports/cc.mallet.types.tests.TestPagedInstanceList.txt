@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: cc.mallet.types.tests.TestPagedInstanceList
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 5.671 sec <<< FAILURE! - in cc.mallet.types.tests.TestPagedInstanceList
+testRandomTrained(cc.mallet.types.tests.TestPagedInstanceList)  Time elapsed: 5.632 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: expected:<0.40852575488454707> but was:<0.3428063943161634>
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.failNotEquals(Assert.java:287)
+	at junit.framework.Assert.assertEquals(Assert.java:102)
+	at junit.framework.Assert.assertEquals(Assert.java:109)
+	at cc.mallet.types.tests.TestPagedInstanceList.testRandomTrained(TestPagedInstanceList.java:61)
+

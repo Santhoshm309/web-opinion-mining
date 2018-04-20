@@ -1,0 +1,32 @@
+-------------------------------------------------------------------------------
+Test set: cc.mallet.grmm.test.TestGenericAcrfData2TokenSequence
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0.008 sec <<< FAILURE! - in cc.mallet.grmm.test.TestGenericAcrfData2TokenSequence
+testFromSerialization(cc.mallet.grmm.test.TestGenericAcrfData2TokenSequence)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.IllegalArgumentException: Alphabets don't match: Instance: [null, 2], InstanceList: [0, 2]
+
+	at cc.mallet.types.InstanceList.add(InstanceList.java:335)
+	at cc.mallet.types.InstanceList.addThruPipe(InstanceList.java:267)
+	at cc.mallet.grmm.test.TestGenericAcrfData2TokenSequence.testFromSerialization(TestGenericAcrfData2TokenSequence.java:62)
+
+testFixedNumLabels(cc.mallet.grmm.test.TestGenericAcrfData2TokenSequence)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.IllegalArgumentException: Alphabets don't match: Instance: [null, 2], InstanceList: [0, 2]
+
+	at cc.mallet.types.InstanceList.add(InstanceList.java:335)
+	at cc.mallet.types.InstanceList.addThruPipe(InstanceList.java:267)
+	at cc.mallet.grmm.test.TestGenericAcrfData2TokenSequence.testFixedNumLabels(TestGenericAcrfData2TokenSequence.java:95)
+
+testLabelsAtEnd(cc.mallet.grmm.test.TestGenericAcrfData2TokenSequence)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.IllegalArgumentException: Alphabets don't match: Instance: [null, 2], InstanceList: [0, 2]
+
+	at cc.mallet.types.InstanceList.add(InstanceList.java:335)
+	at cc.mallet.types.InstanceList.addThruPipe(InstanceList.java:267)
+	at cc.mallet.grmm.test.TestGenericAcrfData2TokenSequence.testLabelsAtEnd(TestGenericAcrfData2TokenSequence.java:111)
+
+testNoTokenText(cc.mallet.grmm.test.TestGenericAcrfData2TokenSequence)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.IllegalArgumentException: Alphabets don't match: Instance: [null, 2], InstanceList: [0, 2]
+
+	at cc.mallet.types.InstanceList.add(InstanceList.java:335)
+	at cc.mallet.types.InstanceList.addThruPipe(InstanceList.java:267)
+	at cc.mallet.grmm.test.TestGenericAcrfData2TokenSequence.testNoTokenText(TestGenericAcrfData2TokenSequence.java:135)
+

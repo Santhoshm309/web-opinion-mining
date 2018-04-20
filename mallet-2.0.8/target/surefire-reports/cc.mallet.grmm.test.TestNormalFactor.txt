@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: cc.mallet.grmm.test.TestNormalFactor
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.479 sec <<< FAILURE! - in cc.mallet.grmm.test.TestNormalFactor
+testSample(cc.mallet.grmm.test.TestNormalFactor)  Time elapsed: 0.478 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: expected:<1.4142135623730951> but was:<2.0603227425388737>
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.failNotEquals(Assert.java:287)
+	at junit.framework.Assert.assertEquals(Assert.java:102)
+	at junit.framework.Assert.assertEquals(Assert.java:109)
+	at cc.mallet.grmm.test.TestNormalFactor.checkMeanStd(TestNormalFactor.java:61)
+	at cc.mallet.grmm.test.TestNormalFactor.testSample(TestNormalFactor.java:51)
+

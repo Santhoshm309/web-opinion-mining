@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: cc.mallet.types.tests.TestLabelAlphabet
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.015 sec <<< FAILURE! - in cc.mallet.types.tests.TestLabelAlphabet
+testReadResolve(cc.mallet.types.tests.TestLabelAlphabet)  Time elapsed: 0.012 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: null
+	at junit.framework.Assert.fail(Assert.java:48)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at cc.mallet.types.tests.TestLabelAlphabet.testReadResolve(TestLabelAlphabet.java:62)
+

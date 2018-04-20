@@ -1,0 +1,30 @@
+-------------------------------------------------------------------------------
+Test set: cc.mallet.grmm.test.TestInference
+-------------------------------------------------------------------------------
+Tests run: 39, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 21.676 sec <<< FAILURE! - in cc.mallet.grmm.test.TestInference
+testTrpTreeList(cc.mallet.grmm.test.TestInference)  Time elapsed: 0.284 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: 
+[TableFactor : (C V0)]
+0  0.6932270916334662
+1  0.30677290836653387
+ Sum = 1.0
+
+[TableFactor : (C V0)]
+0  0.5507048658481126
+1  0.44929513415188715
+ Sum = 0.9999999999999998
+
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at cc.mallet.grmm.test.TestInference.compareMarginals(TestInference.java:1275)
+	at cc.mallet.grmm.test.TestInference.testTrpTreeList(TestInference.java:963)
+
+testJtConstant(cc.mallet.grmm.test.TestInference)  Time elapsed: 0.007 sec  <<< ERROR!
+java.lang.RuntimeException: Error reading line:
+x00 ~ Unary u
+	at cc.mallet.grmm.util.ModelReader.findCtor(ModelReader.java:191)
+	at cc.mallet.grmm.util.ModelReader.constructFactor(ModelReader.java:154)
+	at cc.mallet.grmm.util.ModelReader.factorFromLine(ModelReader.java:137)
+	at cc.mallet.grmm.util.ModelReader.readModel(ModelReader.java:85)
+	at cc.mallet.grmm.test.TestInference.testJtConstant(TestInference.java:1751)
+

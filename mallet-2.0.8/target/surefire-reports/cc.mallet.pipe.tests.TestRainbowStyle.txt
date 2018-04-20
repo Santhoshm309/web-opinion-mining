@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: cc.mallet.pipe.tests.TestRainbowStyle
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.027 sec <<< FAILURE! - in cc.mallet.pipe.tests.TestRainbowStyle
+testThree(cc.mallet.pipe.tests.TestRainbowStyle)  Time elapsed: 0.021 sec  <<< ERROR!
+java.lang.IllegalArgumentException: /home/santhoshm309/Downloads/mallet-2.0.8/foo/bar is not a directory.
+	at cc.mallet.pipe.iterator.FileIterator.<init>(FileIterator.java:108)
+	at cc.mallet.pipe.iterator.FileIterator.<init>(FileIterator.java:134)
+	at cc.mallet.pipe.iterator.FileIterator.<init>(FileIterator.java:178)
+	at cc.mallet.pipe.tests.TestRainbowStyle.testThree(TestRainbowStyle.java:45)
+

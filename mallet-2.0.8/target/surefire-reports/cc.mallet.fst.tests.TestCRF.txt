@@ -1,0 +1,34 @@
+-------------------------------------------------------------------------------
+Test set: cc.mallet.fst.tests.TestCRF
+-------------------------------------------------------------------------------
+Tests run: 23, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 48.946 sec <<< FAILURE! - in cc.mallet.fst.tests.TestCRF
+testCost(cc.mallet.fst.tests.TestCRF)  Time elapsed: 0.134 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: Value should be 35770 but is-335344.0
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at cc.mallet.fst.tests.TestCRF.doTestCost(TestCRF.java:368)
+	at cc.mallet.fst.tests.TestCRF.testCost(TestCRF.java:374)
+
+testCostSerialized(cc.mallet.fst.tests.TestCRF)  Time elapsed: 0.095 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: Value should be 35770 but is-335344.0
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at cc.mallet.fst.tests.TestCRF.doTestCost(TestCRF.java:368)
+	at cc.mallet.fst.tests.TestCRF.testCostSerialized(TestCRF.java:378)
+
+testAddOrderNStates(cc.mallet.fst.tests.TestCRF)  Time elapsed: 1.792 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: expected:<-167.2234457483949> but was:<-363.6238756262383>
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.failNotEquals(Assert.java:287)
+	at junit.framework.Assert.assertEquals(Assert.java:102)
+	at junit.framework.Assert.assertEquals(Assert.java:109)
+	at cc.mallet.fst.tests.TestCRF.testAddOrderNStates(TestCRF.java:669)
+
+testTokenAccuracy(cc.mallet.fst.tests.TestCRF)  Time elapsed: 0.219 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: expected:<0.9409> but was:<0.9101497504159733>
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.failNotEquals(Assert.java:287)
+	at junit.framework.Assert.assertEquals(Assert.java:102)
+	at junit.framework.Assert.assertEquals(Assert.java:109)
+	at cc.mallet.fst.tests.TestCRF.testTokenAccuracy(TestCRF.java:869)
+

@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: cc.mallet.grmm.test.TestUniformFactor
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.135 sec <<< FAILURE! - in cc.mallet.grmm.test.TestUniformFactor
+testSample(cc.mallet.grmm.test.TestUniformFactor)  Time elapsed: 0.128 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: expected:<0.25> but was:<0.2395009029334333>
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.failNotEquals(Assert.java:287)
+	at junit.framework.Assert.assertEquals(Assert.java:102)
+	at junit.framework.Assert.assertEquals(Assert.java:109)
+	at cc.mallet.grmm.test.TestUniformFactor.testSample(TestUniformFactor.java:54)
+

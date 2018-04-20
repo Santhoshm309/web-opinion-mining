@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: cc.mallet.types.tests.TestHashedSparseVector
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.082 sec <<< FAILURE! - in cc.mallet.types.tests.TestHashedSparseVector
+testPlusEqualsFromSaved(cc.mallet.types.tests.TestHashedSparseVector)  Time elapsed: 0.013 sec  <<< ERROR!
+java.lang.RuntimeException: java.io.FileNotFoundException: test/resources/edu/umass/cs/mallet/base/types/hashed.sv.old.ser (No such file or directory)
+	at java.io.FileInputStream.open0(java.base@9-internal/Native Method)
+	at java.io.FileInputStream.open(java.base@9-internal/FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(java.base@9-internal/FileInputStream.java:138)
+	at cc.mallet.util.FileUtils.readUnzippedObject(FileUtils.java:78)
+	at cc.mallet.util.FileUtils.readObject(FileUtils.java:64)
+	at cc.mallet.types.tests.TestHashedSparseVector.testPlusEqualsFromSaved(TestHashedSparseVector.java:191)
+

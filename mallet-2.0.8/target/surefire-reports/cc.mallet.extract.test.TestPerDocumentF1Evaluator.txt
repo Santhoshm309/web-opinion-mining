@@ -1,0 +1,36 @@
+-------------------------------------------------------------------------------
+Test set: cc.mallet.extract.test.TestPerDocumentF1Evaluator
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.05 sec <<< FAILURE! - in cc.mallet.extract.test.TestPerDocumentF1Evaluator
+testPunctuationIgnoringEvaluator(cc.mallet.extract.test.TestPerDocumentF1Evaluator)  Time elapsed: 0.004 sec  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<...t	Pred	Target
+title	[2	4	5
+O	0	0	0
+author	3	4	5
+
+Testing per-field F1
+Name	P	R	F1
+title	0.5	0.4	0.4444
+O	0	1	0
+author	0.75	0.6	0.6667
+OVERALL (micro-averaged) P=0.625 R=0.5 F1=0.5556
+OVERALL (macro-averaged) F1=0.5556]
+
+> but was:<...t	Pred	Target
+title	[1	4	5
+O	0	0	0
+author	3	4	5
+
+Testing per-field F1
+Name	P	R	F1
+title	0.25	0.2	0.2222
+O	0	1	0
+author	0.75	0.6	0.6667
+OVERALL (micro-averaged) P=0.5 R=0.4 F1=0.4444
+OVERALL (macro-averaged) F1=0.4444]
+
+>
+	at junit.framework.Assert.assertEquals(Assert.java:85)
+	at junit.framework.Assert.assertEquals(Assert.java:91)
+	at cc.mallet.extract.test.TestPerDocumentF1Evaluator.testPunctuationIgnoringEvaluator(TestPerDocumentF1Evaluator.java:181)
+

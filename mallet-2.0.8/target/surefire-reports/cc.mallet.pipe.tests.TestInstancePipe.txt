@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: cc.mallet.pipe.tests.TestInstancePipe
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.086 sec <<< FAILURE! - in cc.mallet.pipe.tests.TestInstancePipe
+testTwo(cc.mallet.pipe.tests.TestInstancePipe)  Time elapsed: 0.009 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at cc.mallet.pipe.TokenSequence2TokenInstances$TokenInstanceIterator.next(TokenSequence2TokenInstances.java:34)
+	at cc.mallet.pipe.TokenSequence2TokenInstances$TokenInstanceIterator.next(TokenSequence2TokenInstances.java:15)
+	at cc.mallet.types.InstanceList.addThruPipe(InstanceList.java:267)
+	at cc.mallet.pipe.tests.TestInstancePipe.testTwo(TestInstancePipe.java:78)
+

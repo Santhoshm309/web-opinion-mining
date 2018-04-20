@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------------
+Test set: cc.mallet.fst.tests.TestFeatureTransducer
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.026 sec <<< FAILURE! - in cc.mallet.fst.tests.TestFeatureTransducer
+testInitialState(cc.mallet.fst.tests.TestFeatureTransducer)  Time elapsed: 0.007 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: null
+	at junit.framework.Assert.fail(Assert.java:48)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at cc.mallet.fst.tests.TestFeatureTransducer.testInitialState(TestFeatureTransducer.java:86)
+
+testViterbi(cc.mallet.fst.tests.TestFeatureTransducer)  Time elapsed: 0.006 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: null
+	at junit.framework.Assert.fail(Assert.java:48)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at cc.mallet.fst.tests.TestFeatureTransducer.testViterbi(TestFeatureTransducer.java:100)
+
+testIncrement(cc.mallet.fst.tests.TestFeatureTransducer)  Time elapsed: 0.005 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: null
+	at junit.framework.Assert.fail(Assert.java:48)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at cc.mallet.fst.tests.TestFeatureTransducer.testIncrement(TestFeatureTransducer.java:124)
+

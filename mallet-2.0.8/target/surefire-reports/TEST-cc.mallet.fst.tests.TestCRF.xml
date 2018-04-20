@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cc.mallet.fst.tests.TestCRF" time="48.935" tests="23" errors="0" skipped="0" failures="4">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-9-openjdk-amd64/lib/amd64"/>
+    <property name="java.vm.version" value="9-internal+0-2016-04-14-195246.buildd.src"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="/home/santhoshm309/Downloads/mallet-2.0.8"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/home/santhoshm309/Downloads/mallet-2.0.8"/>
+    <property name="java.runtime.version" value="9-internal+0-2016-04-14-195246.buildd.src"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Linux"/>
+    <property name="classworlds.conf" value="/usr/share/maven/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="53.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="4.13.0-36-generic"/>
+    <property name="user.home" value="/root"/>
+    <property name="user.timezone" value="Asia/Kolkata"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="java.specification.version" value="9"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="root"/>
+    <property name="java.class.path" value="/usr/share/maven/boot/plexus-classworlds-2.x.jar"/>
+    <property name="java.vm.specification.version" value="9"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/usr/lib/jvm/java-9-openjdk-amd64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="9-internal"/>
+    <property name="securerandom.source" value="file:/dev/./urandom"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/usr/share/maven"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase name="testGetSetParameters" classname="cc.mallet.fst.tests.TestCRF" time="0.009"/>
+  <testcase name="testPrint" classname="cc.mallet.fst.tests.TestCRF" time="0.007"/>
+  <testcase name="testIncrement" classname="cc.mallet.fst.tests.TestCRF" time="0"/>
+  <testcase name="testSumLogProb" classname="cc.mallet.fst.tests.TestCRF" time="0"/>
+  <testcase name="testSumLattice" classname="cc.mallet.fst.tests.TestCRF" time="0.001"/>
+  <testcase name="testMaxLattice" classname="cc.mallet.fst.tests.TestCRF" time="0"/>
+  <testcase name="testCost" classname="cc.mallet.fst.tests.TestCRF" time="0.134">
+    <failure message="Value should be 35770 but is-335344.0" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Value should be 35770 but is-335344.0
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at cc.mallet.fst.tests.TestCRF.doTestCost(TestCRF.java:368)
+	at cc.mallet.fst.tests.TestCRF.testCost(TestCRF.java:374)
+</failure>
+  </testcase>
+  <testcase name="testCostSerialized" classname="cc.mallet.fst.tests.TestCRF" time="0.095">
+    <failure message="Value should be 35770 but is-335344.0" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Value should be 35770 but is-335344.0
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at cc.mallet.fst.tests.TestCRF.doTestCost(TestCRF.java:368)
+	at cc.mallet.fst.tests.TestCRF.testCostSerialized(TestCRF.java:378)
+</failure>
+    <system-err><![CDATA[Wrote out CRF
+CRF parameters. hyperbolicPriorSlope: 0.2. hyperbolicPriorSharpness: 10.0. gaussianPriorVariance: 1.0
+Read in CRF.
+CRF parameters. hyperbolicPriorSlope: 0.2. hyperbolicPriorSharpness: 10.0. gaussianPriorVariance: 1.0
+Wrote out CRF
+]]></system-err>
+  </testcase>
+  <testcase name="testValueGradient" classname="cc.mallet.fst.tests.TestCRF" time="5.596"/>
+  <testcase name="testTrain" classname="cc.mallet.fst.tests.TestCRF" time="0.428"/>
+  <testcase name="testAddOrderNStates" classname="cc.mallet.fst.tests.TestCRF" time="1.792">
+    <failure message="expected:&lt;-167.2234457483949&gt; but was:&lt;-363.6238756262383&gt;" type="junit.framework.AssertionFailedError"><![CDATA[junit.framework.AssertionFailedError: expected:<-167.2234457483949> but was:<-363.6238756262383>
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.failNotEquals(Assert.java:287)
+	at junit.framework.Assert.assertEquals(Assert.java:102)
+	at junit.framework.Assert.assertEquals(Assert.java:109)
+	at cc.mallet.fst.tests.TestCRF.testAddOrderNStates(TestCRF.java:669)
+]]></failure>
+  </testcase>
+  <testcase name="testFrozenWeights" classname="cc.mallet.fst.tests.TestCRF" time="2.175"/>
+  <testcase name="testDenseTrain" classname="cc.mallet.fst.tests.TestCRF" time="0.405"/>
+  <testcase name="testTrainStochasticGradient" classname="cc.mallet.fst.tests.TestCRF" time="2.84"/>
+  <testcase name="testSumLatticeImplementations" classname="cc.mallet.fst.tests.TestCRF" time="33.981"/>
+  <testcase name="testSerialization" classname="cc.mallet.fst.tests.TestCRF" time="0.164"/>
+  <testcase name="testDenseSerialization" classname="cc.mallet.fst.tests.TestCRF" time="0.18"/>
+  <testcase name="testTokenAccuracy" classname="cc.mallet.fst.tests.TestCRF" time="0.219">
+    <failure message="expected:&lt;0.9409&gt; but was:&lt;0.9101497504159733&gt;" type="junit.framework.AssertionFailedError"><![CDATA[junit.framework.AssertionFailedError: expected:<0.9409> but was:<0.9101497504159733>
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.failNotEquals(Assert.java:287)
+	at junit.framework.Assert.assertEquals(Assert.java:102)
+	at junit.framework.Assert.assertEquals(Assert.java:109)
+	at cc.mallet.fst.tests.TestCRF.testTokenAccuracy(TestCRF.java:869)
+]]></failure>
+  </testcase>
+  <testcase name="testCopyStatesAndWeights" classname="cc.mallet.fst.tests.TestCRF" time="0.008"/>
+  <testcase name="testStartState" classname="cc.mallet.fst.tests.TestCRF" time="0.005"/>
+  <testcase name="testDenseFeatureSelection" classname="cc.mallet.fst.tests.TestCRF" time="0.163"/>
+  <testcase name="testXis" classname="cc.mallet.fst.tests.TestCRF" time="0.157"/>
+  <testcase name="testStateAddWeights" classname="cc.mallet.fst.tests.TestCRF" time="0.576"/>
+</testsuite>

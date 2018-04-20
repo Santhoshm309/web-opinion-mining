@@ -1,0 +1,1584 @@
+say POSITIVE VB
+
+tim POSITIVE NN
+
+burtons POSITIVE NNS
+
+retelling POSITIVE NN
+
+planet POSITIVE NN
+
+apes POSITIVE NNS
+
+fun POSITIVE NN
+
+barrel POSITIVE NN
+
+monkeys POSITIVE NNS
+
+ok POSITIVE JJ
+
+chest POSITIVE NN
+
+monkey POSITIVE NN
+
+puns POSITIVE NNS
+
+promise POSITIVE VBP
+
+seriously POSITIVE RB
+
+though POSITIVE IN
+
+planet POSITIVE NN
+
+apes POSITIVE NNS
+
+one POSITIVE CD
+
+riproarin POSITIVE NN
+
+summer POSITIVE NN
+
+outing POSITIVE VBG
+
+filled POSITIVE VBN
+
+thrills POSITIVE VBZ
+
+action POSITIVE NN
+
+adventure POSITIVE NN
+
+wit POSITIVE NN
+
+bits POSITIVE NNS
+
+funny POSITIVE JJ
+
+dare POSITIVE VBP
+
+say POSITIVE VBP
+
+monkey POSITIVE NN
+
+business POSITIVE NN
+
+know POSITIVE VB
+
+know POSITIVE VBP
+
+promised POSITIVE VBN
+
+film POSITIVE NN
+
+buffs POSITIVE NNS
+
+fond POSITIVE JJ
+
+original POSITIVE JJ
+
+burtons POSITIVE NNS
+
+version POSITIVE NN
+
+includes POSITIVE VBZ
+
+couple POSITIVE NN
+
+tips POSITIVE NNS
+
+hat POSITIVE NN
+
+movie POSITIVE NN
+
+mark POSITIVE NN
+
+wahlberg POSITIVE NN
+
+stars POSITIVE NNS
+
+capt POSITIVE NN
+
+leo POSITIVE NN
+
+davidson POSITIVE NN
+
+deepspace POSITIVE NN
+
+pilot POSITIVE NN
+
+whose POSITIVE WP$
+
+ship POSITIVE NN
+
+gets POSITIVE VBZ
+
+drawn POSITIVE VBN
+
+magnetic POSITIVE JJ
+
+field POSITIVE NN
+
+hurled POSITIVE VBD
+
+future POSITIVE NN
+
+crash POSITIVE VB
+
+lands POSITIVE NNS
+
+planet POSITIVE NN
+
+apes POSITIVE NNS
+
+dominant POSITIVE JJ
+
+species POSITIVE NNS
+
+humans POSITIVE NNS
+
+hunted POSITIVE VBN
+
+captured POSITIVE VBN
+
+sold POSITIVE VBN
+
+slavery POSITIVE NN
+
+despite POSITIVE IN
+
+darker POSITIVE JJR
+
+original POSITIVE JJ
+
+burtons POSITIVE NNS
+
+film POSITIVE NN
+
+heavy POSITIVE JJ
+
+handed POSITIVE NN
+
+sanctimonious POSITIVE JJ
+
+movies POSITIVE NNS
+
+flashes POSITIVE NNS
+
+humor POSITIVE NN
+
+surreal POSITIVE JJ
+
+well POSITIVE RB
+
+typically POSITIVE RB
+
+burton POSITIVE VBP
+
+organgrinder POSITIVE JJ
+
+ape POSITIVE NN
+
+midget POSITIVE NN
+
+elderly POSITIVE JJ
+
+ape POSITIVE NN
+
+taking POSITIVE VBG
+
+wig POSITIVE NN
+
+removing POSITIVE VBG
+
+false POSITIVE JJ
+
+teeth POSITIVE NNS
+
+prepares POSITIVE VBZ
+
+bed POSITIVE NN
+
+parents POSITIVE NNS
+
+buy POSITIVE VBP
+
+little POSITIVE JJ
+
+girl POSITIVE NN
+
+pet POSITIVE NN
+
+young POSITIVE JJ
+
+daughter POSITIVE NN
+
+seller POSITIVE NN
+
+advises POSITIVE VBZ
+
+parents POSITIVE NNS
+
+get POSITIVE VB
+
+rid POSITIVE JJ
+
+girl POSITIVE NN
+
+reaches POSITIVE VBZ
+
+puberty POSITIVE NN
+
+one POSITIVE CD
+
+thing POSITIVE NN
+
+want POSITIVE VB
+
+house POSITIVE NN
+
+human POSITIVE JJ
+
+teenager POSITIVE NN
+
+says POSITIVE VBZ
+
+ape POSITIVE NN
+
+realize POSITIVE VB
+
+truth POSITIVE NN
+
+statement POSITIVE NN
+
+touches POSITIVE NNS
+
+stamps POSITIVE NNS
+
+movie POSITIVE NN
+
+burtons POSITIVE NNS
+
+brand POSITIVE NN
+
+lines POSITIVE NNS
+
+hearken POSITIVE VBP
+
+back POSITIVE RB
+
+original POSITIVE JJ
+
+movie POSITIVE NN
+
+sprinkled POSITIVE VBN
+
+throughout POSITIVE IN
+
+first POSITIVE JJ
+
+words POSITIVE NNS
+
+spoken POSITIVE VBN
+
+ape POSITIVE NN
+
+davidson POSITIVE NN
+
+astronaut POSITIVE NN
+
+regaining POSITIVE VBG
+
+consciousness POSITIVE NN
+
+grabs POSITIVE VBZ
+
+simians POSITIVE NNS
+
+foot POSITIVE NN
+
+try POSITIVE VB
+
+righting POSITIVE VBG
+
+take POSITIVE VB
+
+stinking POSITIVE JJ
+
+hand POSITIVE NN
+
+damned POSITIVE RB
+
+dirty POSITIVE JJ
+
+human POSITIVE JJ
+
+anyone POSITIVE NN
+
+familiar POSITIVE JJ
+
+first POSITIVE JJ
+
+version POSITIVE NN
+
+film POSITIVE NN
+
+will POSITIVE MD
+
+course POSITIVE NN
+
+recognize POSITIVE VBP
+
+irony POSITIVE NN
+
+piece POSITIVE NN
+
+dialogue POSITIVE NN
+
+another POSITIVE DT
+
+burtons POSITIVE NNS
+
+injokes POSITIVE NNS
+
+charlton POSITIVE NN
+
+heston POSITIVE NN
+
+star POSITIVE NN
+
+original POSITIVE JJ
+
+play POSITIVE NN
+
+chimpanzee POSITIVE NN
+
+father POSITIVE NN
+
+tim POSITIVE NN
+
+roths POSITIVE NNS
+
+gen POSITIVE NN
+
+thade POSITIVE IN
+
+young POSITIVE JJ
+
+chimp POSITIVE NN
+
+goes POSITIVE VBZ
+
+visit POSITIVE VB
+
+dying POSITIVE VBG
+
+father POSITIVE NN
+
+one POSITIVE CD
+
+thing POSITIVE NN
+
+common POSITIVE JJ
+
+hatred POSITIVE NN
+
+humans POSITIVE NNS
+
+dying POSITIVE VBG
+
+breath POSITIVE NN
+
+elder POSITIVE JJR
+
+spews POSITIVE NNS
+
+vile POSITIVE JJ
+
+damn POSITIVE NN
+
+damn POSITIVE RB
+
+hell POSITIVE NN
+
+says POSITIVE VBZ
+
+expiring POSITIVE VBG
+
+famous POSITIVE JJ
+
+line POSITIVE NN
+
+hestons POSITIVE NNS
+
+taylor POSITIVE VBP
+
+shouted POSITIVE VBD
+
+conclusion POSITIVE NN
+
+original POSITIVE JJ
+
+discovering POSITIVE VBG
+
+planets POSITIVE NNS
+
+terrible POSITIVE JJ
+
+secret POSITIVE NN
+
+performances POSITIVE NNS
+
+throughout POSITIVE IN
+
+topnotch POSITIVE JJ
+
+wahlberg POSITIVE NN
+
+plays POSITIVE VBZ
+
+davidson POSITIVE NN
+
+gungho POSITIVE JJ
+
+hero POSITIVE NN
+
+confused POSITIVE JJ
+
+somewhat POSITIVE RB
+
+frightened POSITIVE JJ
+
+explorer POSITIVE NN
+
+wants POSITIVE VBZ
+
+home POSITIVE NN
+
+reluctant POSITIVE JJ
+
+lead POSITIVE VB
+
+human POSITIVE JJ
+
+rebellion POSITIVE NN
+
+objective POSITIVE NN
+
+find POSITIVE VB
+
+way POSITIVE NN
+
+upsidedown POSITIVE NN
+
+planet POSITIVE NN
+
+hesitation POSITIVE NN
+
+makes POSITIVE VBZ
+
+character POSITIVE NN
+
+believable POSITIVE JJ
+
+vulnerable POSITIVE JJ
+
+roth POSITIVE NN
+
+ferocious POSITIVE JJ
+
+cunning POSITIVE JJ
+
+cruel POSITIVE JJ
+
+savage POSITIVE JJ
+
+fascist POSITIVE JJ
+
+chimp POSITIVE NN
+
+wants POSITIVE VBZ
+
+rid POSITIVE VB
+
+planet POSITIVE NN
+
+vestiges POSITIVE NNS
+
+humanity POSITIVE NN
+
+leaps POSITIVE VBZ
+
+bounds POSITIVE VBZ
+
+springs POSITIVE NNS
+
+feet POSITIVE NNS
+
+masterful POSITIVE JJ
+
+turn POSITIVE NN
+
+helena POSITIVE NNS
+
+bonham POSITIVE VBP
+
+carter POSITIVE NN
+
+ari POSITIVE IN
+
+chimp POSITIVE NN
+
+believes POSITIVE VBZ
+
+apes POSITIVE NNS
+
+humans POSITIVE NNS
+
+live POSITIVE VB
+
+peace POSITIVE NN
+
+equals POSITIVE VBZ
+
+smart POSITIVE JJ
+
+compassionate POSITIVE JJ
+
+characterization POSITIVE NN
+
+michael POSITIVE NN
+
+clarke POSITIVE NN
+
+duncan POSITIVE NN
+
+big POSITIVE JJ
+
+brutal POSITIVE JJ
+
+attar POSITIVE NN
+
+gorilla POSITIVE NN
+
+aid POSITIVE NN
+
+thade POSITIVE VB
+
+blindly POSITIVE RB
+
+follows POSITIVE VBZ
+
+leader POSITIVE NN
+
+faith POSITIVE NN
+
+shaken POSITIVE VBN
+
+fine POSITIVE JJ
+
+comic POSITIVE JJ
+
+outing POSITIVE NN
+
+given POSITIVE VBN
+
+paul POSITIVE NN
+
+giamatti POSITIVE NNS
+
+limbo POSITIVE NN
+
+ape POSITIVE NN
+
+slave POSITIVE NN
+
+trader POSITIVE NN
+
+making POSITIVE VBG
+
+living POSITIVE VBG
+
+misery POSITIVE NN
+
+humans POSITIVE NNS
+
+captures POSITIVE VBZ
+
+battle POSITIVE NN
+
+apes POSITIVE NNS
+
+humans POSITIVE NNS
+
+looms POSITIVE VBZ
+
+cowardly POSITIVE JJ
+
+limbo POSITIVE NN
+
+pleads POSITIVE NNS
+
+just POSITIVE RB
+
+get POSITIVE VB
+
+along POSITIVE IN
+
+echoing POSITIVE VBG
+
+words POSITIVE NNS
+
+rodney POSITIVE NN
+
+king POSITIVE NN
+
+much POSITIVE RB
+
+success POSITIVE NN
+
+planet POSITIVE NN
+
+apes POSITIVE NNS
+
+goes POSITIVE VBZ
+
+burtons POSITIVE NNS
+
+technical POSITIVE JJ
+
+crew POSITIVE NN
+
+especially POSITIVE RB
+
+production POSITIVE NN
+
+designer POSITIVE NN
+
+rick POSITIVE NN
+
+heinrichs POSITIVE NNS
+
+legendary POSITIVE JJ
+
+rick POSITIVE NN
+
+baker POSITIVE NN
+
+created POSITIVE VBD
+
+ape POSITIVE NN
+
+makeup POSITIVE NN
+
+burtons POSITIVE NNS
+
+musical POSITIVE JJ
+
+collaborator POSITIVE NN
+
+danny POSITIVE NN
+
+elfman POSITIVE NN
+
+provides POSITIVE VBZ
+
+another POSITIVE DT
+
+fine POSITIVE JJ
+
+score POSITIVE NN
+
+though POSITIVE IN
+
+memorable POSITIVE JJ
+
+work POSITIVE NN
+
+batman POSITIVE NN
+
+sleepy POSITIVE JJ
+
+hollow POSITIVE JJ
+
+movies POSITIVE NNS
+
+letdown POSITIVE NN
+
+comes POSITIVE VBZ
+
+end POSITIVE NN
+
+burton POSITIVE NN
+
+tries POSITIVE VBZ
+
+outshock POSITIVE VB
+
+finale POSITIVE NN
+
+original POSITIVE JJ
+
+comes POSITIVE VBZ
+
+close POSITIVE RB
+
+falls POSITIVE VBZ
+
+short POSITIVE JJ
+
+otherwise POSITIVE RB
+
+planet POSITIVE NN
+
+apes POSITIVE NNS
+
+summer POSITIVE NN
+
+movie POSITIVE NN
+
+amusement POSITIVE NN
+
+park POSITIVE NN
+
+ride POSITIVE NN
+
+filled POSITIVE VBN
+
+lots POSITIVE NNS
+
+action POSITIVE NN
+
+stunts POSITIVE NNS
+
+laughs POSITIVE NNS
+
+one POSITIVE CD
+
+feature POSITIVE NN
+
+expectations POSITIVE NNS
+
+lived POSITIVE VBD
+
+prerelease POSITIVE NN
+
+hype POSITIVE NN
+
+makes NEGATIVE VBZ
+
+reindeer NEGATIVE NN
+
+games NEGATIVE NNS
+
+even NEGATIVE RB
+
+disappointing NEGATIVE JJ
+
+just NEGATIVE RB
+
+predictable NEGATIVE JJ
+
+lifeless NEGATIVE JJ
+
+action NEGATIVE NN
+
+flick NEGATIVE NN
+
+cast NEGATIVE NN
+
+crew NEGATIVE NN
+
+signed NEGATIVE VBD
+
+onto NEGATIVE IN
+
+project NEGATIVE NN
+
+people NEGATIVE NNS
+
+involved NEGATIVE VBN
+
+reindeer NEGATIVE NN
+
+games NEGATIVE NNS
+
+just NEGATIVE RB
+
+came NEGATIVE VBD
+
+terrible NEGATIVE JJ
+
+slumps NEGATIVE NNS
+
+excellent NEGATIVE JJ
+
+comeback NEGATIVE NN
+
+performances NEGATIVE NNS
+
+recent NEGATIVE JJ
+
+films NEGATIVE NNS
+
+john NEGATIVE NN
+
+frankenheimer NEGATIVE NN
+
+made NEGATIVE VBD
+
+unforgettable NEGATIVE JJ
+
+cold NEGATIVE JJ
+
+war NEGATIVE NN
+
+drama NEGATIVE NN
+
+manchurian NEGATIVE JJ
+
+candidate NEGATIVE NN
+
+way NEGATIVE NN
+
+back NEGATIVE RB
+
+early NEGATIVE JJ
+
+s NEGATIVE NNS
+
+recently NEGATIVE RB
+
+showed NEGATIVE VBD
+
+critics NEGATIVE NNS
+
+fans NEGATIVE NNS
+
+alike NEGATIVE RB
+
+still NEGATIVE RB
+
+magic NEGATIVE JJ
+
+left NEGATIVE NN
+
+directorial NEGATIVE JJ
+
+skills NEGATIVE NNS
+
+created NEGATIVE VBD
+
+brilliant NEGATIVE JJ
+
+car NEGATIVE NN
+
+chase NEGATIVE NN
+
+scenes NEGATIVE NNS
+
+ronin NEGATIVE NN
+
+screenwriter NEGATIVE NN
+
+ehren NEGATIVE VBZ
+
+kruger NEGATIVE JJ
+
+gave NEGATIVE VBD
+
+remarkable NEGATIVE JJ
+
+first NEGATIVE JJ
+
+impression NEGATIVE NN
+
+wrote NEGATIVE VBD
+
+script NEGATIVE NN
+
+underrated NEGATIVE JJ
+
+arlington NEGATIVE NN
+
+rd NEGATIVE NN
+
+ben NEGATIVE NN
+
+affleck NEGATIVE NN
+
+displayed NEGATIVE VBD
+
+comedic NEGATIVE JJ
+
+talents NEGATIVE NNS
+
+dogma NEGATIVE NN
+
+boiler NEGATIVE NN
+
+room NEGATIVE NN
+
+even NEGATIVE RB
+
+saturday NEGATIVE NNP
+
+night NEGATIVE NN
+
+live NEGATIVE VB
+
+directly NEGATIVE RB
+
+horrible NEGATIVE JJ
+
+forces NEGATIVE NNS
+
+nature NEGATIVE NN
+
+cigarettes NEGATIVE NNS
+
+even NEGATIVE RB
+
+charlize NEGATIVE VBP
+
+theron NEGATIVE NN
+
+convinced NEGATIVE JJ
+
+act NEGATIVE NN
+
+decent NEGATIVE JJ
+
+job NEGATIVE NN
+
+cider NEGATIVE NN
+
+house NEGATIVE NN
+
+rules NEGATIVE NNS
+
+bright NEGATIVE JJ
+
+stars NEGATIVE NNS
+
+come NEGATIVE VBN
+
+together NEGATIVE RB
+
+one NEGATIVE CD
+
+assume NEGATIVE VB
+
+movie NEGATIVE NN
+
+will NEGATIVE MD
+
+great NEGATIVE JJ
+
+potential NEGATIVE JJ
+
+entertaining NEGATIVE JJ
+
+coming NEGATIVE VBG
+
+theater NEGATIVE NN
+
+showing NEGATIVE VBG
+
+reindeer NEGATIVE NN
+
+games NEGATIVE NNS
+
+disbelief NEGATIVE NN
+
+first NEGATIVE JJ
+
+reaction NEGATIVE NN
+
+frustration NEGATIVE NN
+
+movie NEGATIVE NN
+
+premiered NEGATIVE VBN
+
+cinemax NEGATIVE NN
+
+two NEGATIVE CD
+
+morning NEGATIVE NN
+
+starring NEGATIVE VBG
+
+allrookie NEGATIVE JJ
+
+cast NEGATIVE NN
+
+still NEGATIVE RB
+
+equally NEGATIVE RB
+
+lacking NEGATIVE VBG
+
+entertaining NEGATIVE VBG
+
+acting NEGATIVE NN
+
+pitiful NEGATIVE JJ
+
+script NEGATIVE NN
+
+dull NEGATIVE JJ
+
+may NEGATIVE MD
+
+rethink NEGATIVE VB
+
+opinions NEGATIVE NNS
+
+talented NEGATIVE JJ
+
+actors NEGATIVE NNS
+
+actually NEGATIVE RB
+
+seemed NEGATIVE VBD
+
+like NEGATIVE IN
+
+everyone NEGATIVE NN
+
+restricted NEGATIVE JJ
+
+just NEGATIVE RB
+
+script NEGATIVE NN
+
+given NEGATIVE VBN
+
+fair NEGATIVE JJ
+
+amount NEGATIVE NN
+
+improvisational NEGATIVE JJ
+
+rights NEGATIVE NNS
+
+seen NEGATIVE VBN
+
+ben NEGATIVE NN
+
+affleck NEGATIVE NN
+
+fun NEGATIVE NN
+
+set NEGATIVE VBN
+
+apparent NEGATIVE JJ
+
+number NEGATIVE NN
+
+scenes NEGATIVE NNS
+
+good NEGATIVE JJ
+
+will NEGATIVE NN
+
+hunting NEGATIVE NN
+
+exchanges NEGATIVE NNS
+
+jokes NEGATIVE NNS
+
+friends NEGATIVE NNS
+
+bar NEGATIVE NN
+
+actors NEGATIVE NNS
+
+movie NEGATIVE NN
+
+fun NEGATIVE NN
+
+audience NEGATIVE NN
+
+fun NEGATIVE NN
+
+reindeer NEGATIVE NN
+
+games NEGATIVE NNS
+
+complete NEGATIVE JJ
+
+opposite NEGATIVE JJ
+
+actors NEGATIVE NNS
+
+seem NEGATIVE VBP
+
+want NEGATIVE VB
+
+characters NEGATIVE NNS
+
+even NEGATIVE RB
+
+danny NEGATIVE JJ
+
+trejo NEGATIVE NN
+
+will NEGATIVE MD
+
+practically NEGATIVE RB
+
+anything NEGATIVE NN
+
+look NEGATIVE NN
+
+like NEGATIVE IN
+
+enjoying NEGATIVE VBG
+
+causing NEGATIVE VBG
+
+audience NEGATIVE NN
+
+quickly NEGATIVE RB
+
+lose NEGATIVE VB
+
+interest NEGATIVE NN
+
+evidence NEGATIVE NN
+
+public NEGATIVE JJ
+
+disapproval NEGATIVE NN
+
+noted NEGATIVE VBN
+
+woman NEGATIVE NN
+
+behind NEGATIVE IN
+
+yelled NEGATIVE VBD
+
+boy NEGATIVE NN
+
+movie NEGATIVE NN
+
+horrible NEGATIVE JJ
+
+scattered NEGATIVE VBN
+
+giggles NEGATIVE NNS
+
+dramatic NEGATIVE JJ
+
+moments NEGATIVE NNS
+
+story NEGATIVE NN
+
+follows NEGATIVE VBZ
+
+man NEGATIVE NN
+
+rudy NEGATIVE VB
+
+ben NEGATIVE JJ
+
+affleck NEGATIVE NN
+
+leaving NEGATIVE VBG
+
+prison NEGATIVE NN
+
+days NEGATIVE NNS
+
+along NEGATIVE IN
+
+best NEGATIVE JJS
+
+friend NEGATIVE NN
+
+cellmate NEGATIVE NN
+
+nick NEGATIVE NN
+
+james NEGATIVE VBZ
+
+frain NEGATIVE JJ
+
+nick NEGATIVE NN
+
+exchanging NEGATIVE VBG
+
+love NEGATIVE NN
+
+letters NEGATIVE NNS
+
+beautiful NEGATIVE JJ
+
+woman NEGATIVE NN
+
+ashley NEGATIVE NN
+
+charlize NEGATIVE NN
+
+theron NEGATIVE NN
+
+wait NEGATIVE VB
+
+leave NEGATIVE VB
+
+prison NEGATIVE NN
+
+meet NEGATIVE VB
+
+person NEGATIVE NN
+
+nick NEGATIVE NN
+
+killed NEGATIVE VBN
+
+prison NEGATIVE NN
+
+riot NEGATIVE NN
+
+rudy NEGATIVE NN
+
+decides NEGATIVE VBZ
+
+pretend NEGATIVE VB
+
+nick NEGATIVE JJ
+
+take NEGATIVE VB
+
+ashley NEGATIVE NN
+
+date NEGATIVE NN
+
+christmas NEGATIVE NNS
+
+holidays NEGATIVE NNS
+
+unfortunately NEGATIVE RB
+
+ashleys NEGATIVE NNS
+
+brother NEGATIVE NN
+
+gabriel NEGATIVE NN
+
+gary NEGATIVE NN
+
+sinise NEGATIVE NN
+
+interferes NEGATIVE VBZ
+
+relationship NEGATIVE NN
+
+thinking NEGATIVE VBG
+
+rudy NEGATIVE NN
+
+nick NEGATIVE NN
+
+kidnaps NEGATIVE VBZ
+
+rudy NEGATIVE NN
+
+threatens NEGATIVE VBZ
+
+kill NEGATIVE VB
+
+unless NEGATIVE IN
+
+helps NEGATIVE VBZ
+
+rob NEGATIVE VB
+
+casino NEGATIVE NN
+
+nick NEGATIVE VBP
+
+use NEGATIVE NN
+
+work NEGATIVE VB
+
+security NEGATIVE NN
+
+guard NEGATIVE NN
+
+now NEGATIVE RB
+
+rudy NEGATIVE VBP
+
+must NEGATIVE MD
+
+pretend NEGATIVE VB
+
+nick NEGATIVE JJ
+
+protect NEGATIVE VB
+
+ashley NEGATIVE NN
+
+brother NEGATIVE NN
+
+gabriel NEGATIVE NN
+
+confused NEGATIVE VBD
+
+movie NEGATIVE NN
+
+gets NEGATIVE VBZ
+
+complex NEGATIVE NN
+
+goes NEGATIVE VBZ
+
+gets NEGATIVE VBZ
+
+way NEGATIVE NN
+
+way NEGATIVE NN
+
+complex NEGATIVE JJ
+
+climax NEGATIVE NN
+
+reindeer NEGATIVE NN
+
+games NEGATIVE NNS
+
+makes NEGATIVE VBZ
+
+first NEGATIVE JJ
+
+serious NEGATIVE JJ
+
+mistake NEGATIVE NN
+
+first NEGATIVE JJ
+
+half NEGATIVE DT
+
+hour NEGATIVE NN
+
+hero NEGATIVE NN
+
+commits NEGATIVE VBZ
+
+greedy NEGATIVE JJ
+
+selfish NEGATIVE JJ
+
+act NEGATIVE NN
+
+decides NEGATIVE VBZ
+
+pretend NEGATIVE VB
+
+dead NEGATIVE JJ
+
+cellmate NEGATIVE NN
+
+order NEGATIVE NN
+
+date NEGATIVE NN
+
+ashley NEGATIVE IN
+
+hero NEGATIVE NN
+
+point NEGATIVE NN
+
+hero NEGATIVE NN
+
+morally NEGATIVE RB
+
+correct NEGATIVE JJ
+
+thing NEGATIVE NN
+
+person NEGATIVE NN
+
+audience NEGATIVE NN
+
+relate NEGATIVE VB
+
+admire NEGATIVE VB
+
+rudy NEGATIVE NN
+
+lies NEGATIVE VBZ
+
+cheats NEGATIVE VBZ
+
+way NEGATIVE NN
+
+trouble NEGATIVE NN
+
+instead NEGATIVE RB
+
+gathering NEGATIVE VBG
+
+support NEGATIVE NN
+
+ultimately NEGATIVE RB
+
+succeed NEGATIVE VB
+
+getting NEGATIVE VBG
+
+bad NEGATIVE JJ
+
+guys NEGATIVE NNS
+
+felt NEGATIVE VBD
+
+like NEGATIVE IN
+
+getting NEGATIVE VBG
+
+deserved NEGATIVE VBD
+
+even NEGATIVE RB
+
+wanted NEGATIVE VBD
+
+see NEGATIVE VB
+
+fail NEGATIVE VB
+
+times NEGATIVE NNS
+
+irritating NEGATIVE JJ
+
+part NEGATIVE NN
+
+film NEGATIVE NN
+
+besides NEGATIVE IN
+
+fact NEGATIVE NN
+
+christmas NEGATIVE NN
+
+movie NEGATIVE NN
+
+released NEGATIVE VBN
+
+february NEGATIVE NNP
+
+number NEGATIVE NN
+
+chances NEGATIVE NNS
+
+bad NEGATIVE JJ
+
+guys NEGATIVE NNS
+
+get NEGATIVE VBP
+
+kill NEGATIVE VB
+
+rudy NEGATIVE NN
+
+fail NEGATIVE VBP
+
+delay NEGATIVE VBP
+
+idiotic NEGATIVE JJ
+
+reason NEGATIVE NN
+
+routine NEGATIVE NN
+
+bad NEGATIVE JJ
+
+guy NEGATIVE NN
+
+must NEGATIVE MD
+
+explain NEGATIVE VB
+
+genius NEGATIVE NN
+
+plan NEGATIVE NN
+
+hero NEGATIVE NN
+
+attempting NEGATIVE VBG
+
+kill NEGATIVE VB
+
+elaborate NEGATIVE JJ
+
+machine NEGATIVE NN
+
+getting NEGATIVE VBG
+
+tired NEGATIVE JJ
+
+nowadays NEGATIVE RB
+
+especially NEGATIVE RB
+
+eagerly NEGATIVE RB
+
+want NEGATIVE VBP
+
+see NEGATIVE VB
+
+hero NEGATIVE NN
+
+dead NEGATIVE VBD
+
+saving NEGATIVE NN
+
+grace NEGATIVE NN
+
+keeping NEGATIVE VBG
+
+movie NEGATIVE NN
+
+receiving NEGATIVE VBG
+
+zero NEGATIVE CD
+
+stars NEGATIVE NNS
+
+amusing NEGATIVE JJ
+
+pointless NEGATIVE JJ
+
+cameo NEGATIVE NN
+
+isaac NEGATIVE NN
+
+hayes NEGATIVE NNS
+
+prisoner NEGATIVE NN
+
+upset NEGATIVE VBN
+
+food NEGATIVE NN
+
+movie NEGATIVE NN
+
+pointless NEGATIVE JJ
+
+role NEGATIVE NN
+
+beats NEGATIVE VBZ
+
+people NEGATIVE NNS
+
+anything NEGATIVE NN
+
+movie NEGATIVE NN
+
+beats NEGATIVE VBZ
+

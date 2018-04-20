@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cc.mallet.grmm.test.TestInference" time="21.674" tests="39" errors="1" skipped="0" failures="1">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-9-openjdk-amd64/lib/amd64"/>
+    <property name="java.vm.version" value="9-internal+0-2016-04-14-195246.buildd.src"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="/home/santhoshm309/Downloads/mallet-2.0.8"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/home/santhoshm309/Downloads/mallet-2.0.8"/>
+    <property name="java.runtime.version" value="9-internal+0-2016-04-14-195246.buildd.src"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Linux"/>
+    <property name="classworlds.conf" value="/usr/share/maven/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="53.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="4.13.0-36-generic"/>
+    <property name="user.home" value="/root"/>
+    <property name="user.timezone" value="Asia/Kolkata"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="java.specification.version" value="9"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="root"/>
+    <property name="java.class.path" value="/usr/share/maven/boot/plexus-classworlds-2.x.jar"/>
+    <property name="java.vm.specification.version" value="9"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/usr/lib/jvm/java-9-openjdk-amd64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="9-internal"/>
+    <property name="securerandom.source" value="file:/dev/./urandom"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/usr/share/maven"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase name="testUniformJoint" classname="cc.mallet.grmm.test.TestInference" time="0.074"/>
+  <testcase name="testJointConsistent" classname="cc.mallet.grmm.test.TestInference" time="0.024"/>
+  <testcase name="testFactorizedJoint" classname="cc.mallet.grmm.test.TestInference" time="1.144"/>
+  <testcase name="testMarginals" classname="cc.mallet.grmm.test.TestInference" time="17.698"/>
+  <testcase name="testJtConsistency" classname="cc.mallet.grmm.test.TestInference" time="0.015"/>
+  <testcase name="testTrp" classname="cc.mallet.grmm.test.TestInference" time="0.013"/>
+  <testcase name="testTrpJoint" classname="cc.mallet.grmm.test.TestInference" time="0.006"/>
+  <testcase name="testTrpNonDestructivity" classname="cc.mallet.grmm.test.TestInference" time="0.005"/>
+  <testcase name="testTrpReuse" classname="cc.mallet.grmm.test.TestInference" time="0.06"/>
+  <testcase name="testTrpTreeList" classname="cc.mallet.grmm.test.TestInference" time="0.284">
+    <failure message="&#10;[TableFactor : (C V0)]&#10;0  0.6932270916334662&#10;1  0.30677290836653387&#10; Sum = 1.0&#10;&#10;[TableFactor : (C V0)]&#10;0  0.5507048658481126&#10;1  0.44929513415188715&#10; Sum = 0.9999999999999998&#10;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: 
+[TableFactor : (C V0)]
+0  0.6932270916334662
+1  0.30677290836653387
+ Sum = 1.0
+
+[TableFactor : (C V0)]
+0  0.5507048658481126
+1  0.44929513415188715
+ Sum = 0.9999999999999998
+
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at cc.mallet.grmm.test.TestInference.compareMarginals(TestInference.java:1275)
+	at cc.mallet.grmm.test.TestInference.testTrpTreeList(TestInference.java:963)
+</failure>
+  </testcase>
+  <testcase name="testUndirectedIndices" classname="cc.mallet.grmm.test.TestInference" time="0.009"/>
+  <testcase name="testTrpViterbiEquiv" classname="cc.mallet.grmm.test.TestInference" time="0.013"/>
+  <testcase name="testTrpOnTrees" classname="cc.mallet.grmm.test.TestInference" time="0.019"/>
+  <testcase name="testTrpViterbiEquiv2" classname="cc.mallet.grmm.test.TestInference" time="0.012"/>
+  <testcase name="testTreeViterbi" classname="cc.mallet.grmm.test.TestInference" time="0.008"/>
+  <testcase name="testJtViterbi" classname="cc.mallet.grmm.test.TestInference" time="0.021"/>
+  <testcase name="testMaxMarginals" classname="cc.mallet.grmm.test.TestInference" time="0.056"/>
+  <testcase name="testBeliefPropagation" classname="cc.mallet.grmm.test.TestInference" time="0.008"/>
+  <testcase name="testBpJoint" classname="cc.mallet.grmm.test.TestInference" time="0.113"/>
+  <testcase name="testDirectedJt" classname="cc.mallet.grmm.test.TestInference" time="0.007"/>
+  <testcase name="testLogMarginalize" classname="cc.mallet.grmm.test.TestInference" time="0.01"/>
+  <testcase name="testInfiniteCost" classname="cc.mallet.grmm.test.TestInference" time="0.01"/>
+  <testcase name="testJtCaching" classname="cc.mallet.grmm.test.TestInference" time="0.023"/>
+  <testcase name="testSerializable" classname="cc.mallet.grmm.test.TestInference" time="0.235"/>
+  <testcase name="testQuery" classname="cc.mallet.grmm.test.TestInference" time="0.047"/>
+  <testcase name="testSumLogProb" classname="cc.mallet.grmm.test.TestInference" time="0.005"/>
+  <testcase name="testMultiply" classname="cc.mallet.grmm.test.TestInference" time="0.005"/>
+  <testcase name="testLogNormalize" classname="cc.mallet.grmm.test.TestInference" time="0.006"/>
+  <testcase name="testFindVariable" classname="cc.mallet.grmm.test.TestInference" time="0.005"/>
+  <testcase name="testDefaultLookupMarginal" classname="cc.mallet.grmm.test.TestInference" time="0.004"/>
+  <testcase name="testDisconnectedModel" classname="cc.mallet.grmm.test.TestInference" time="0.02"/>
+  <testcase name="testDestructiveAssignment" classname="cc.mallet.grmm.test.TestInference" time="0.003"/>
+  <testcase name="testLoopyConvergence" classname="cc.mallet.grmm.test.TestInference" time="0.007"/>
+  <testcase name="testSingletonGraph" classname="cc.mallet.grmm.test.TestInference" time="0.003"/>
+  <testcase name="testLoopyCaching" classname="cc.mallet.grmm.test.TestInference" time="0.007"/>
+  <testcase name="testJunctionTreeConnectedFromRoot" classname="cc.mallet.grmm.test.TestInference" time="0.003"/>
+  <testcase name="testBpLargeModels" classname="cc.mallet.grmm.test.TestInference" time="0.429"/>
+  <testcase name="testTrpLargeModels" classname="cc.mallet.grmm.test.TestInference" time="1.256"/>
+  <testcase name="testJtConstant" classname="cc.mallet.grmm.test.TestInference" time="0.007">
+    <error message="Error reading line:&#10;x00 ~ Unary u" type="java.lang.RuntimeException">java.lang.RuntimeException: Error reading line:
+x00 ~ Unary u
+	at cc.mallet.grmm.util.ModelReader.findCtor(ModelReader.java:191)
+	at cc.mallet.grmm.util.ModelReader.constructFactor(ModelReader.java:154)
+	at cc.mallet.grmm.util.ModelReader.factorFromLine(ModelReader.java:137)
+	at cc.mallet.grmm.util.ModelReader.readModel(ModelReader.java:85)
+	at cc.mallet.grmm.test.TestInference.testJtConstant(TestInference.java:1751)
+</error>
+  </testcase>
+</testsuite>
